@@ -1,0 +1,9 @@
+C:\Users\aluno\Desktop\DES-Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\aluno\Desktop\DES-Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\DES-Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\aluno\Desktop\DES-Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\aluno\Desktop\DES-Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\DES-Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\aluno\Desktop\DES-Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\aluno\Desktop\DES-Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\aluno\Desktop\DES-Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
